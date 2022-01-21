@@ -18,12 +18,20 @@ islands, then print them in the increasing order of indices (space separated val
 line).
 # Sample input
 5 7 1
+
 1 2
+
 1 3
+
 1 4
+
 1 5
+
 2 4
+
 2 5
+
 3 4
-Sample output
+
+# Sample output
 4
